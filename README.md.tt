@@ -1,0 +1,16 @@
+# <%=config[:constant_name]%>
+
+TODO: Describe your project
+
+## Installation
+
+You can self-host this code by using harp
+
+```
+$ harp server
+```
+
+Your CSS can now optionally be written as `.scss` :)
+
+
+Alternatively, rename the `.css.scss` files to just `.css` and serve the site with a oneliner like `python -m SimpleHTTPServer 8000`
